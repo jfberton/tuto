@@ -1,2 +1,2 @@
-from /jenkins/job/tutoMax/job/main/
+from alpine
 run apk add fortune
